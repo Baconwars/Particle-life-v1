@@ -1,1 +1,1 @@
-Coded by Java used AI tools
+Coded by Java and used AI tools
